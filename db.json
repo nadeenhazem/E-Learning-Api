@@ -1,46 +1,6 @@
 {
   "Users": [
-    {
-      "id": 1,
-      "name": "nadeen",
-      "email": "nadeenhazem544@gmail.com",
-      "password": "123456789"
-    },
-    {
-      "name": "ranaahmed",
-      "email": "rana@gmail.com",
-      "password": "123",
-      "confirm": "123",
-      "id": 2
-    },
-    {
-      "name": "ayatkhaled",
-      "email": "aya@gmail.com",
-      "password": "123",
-      "confirm": "123",
-      "id": 3
-    },
-    {
-      "name": "karimMostafa",
-      "email": "karim@gmail.com",
-      "password": "125",
-      "confirm": "125",
-      "id": 4
-    },
-    {
-      "name": "mariamAhmed",
-      "email": "mariam@gmail.com",
-      "password": "123",
-      "confirm": "123",
-      "id": 5
-    },
-    {
-      "name": "raniamahmoud",
-      "email": "rania@gmail.com",
-      "password": "258",
-      "confirm": "258",
-      "id": 6
-    }
+    
   ],
   "Courses": [
     {
