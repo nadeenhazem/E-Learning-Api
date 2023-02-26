@@ -1,5 +1,12 @@
 {
   "Users": [
+    {
+      "name": "NadeenHazem",
+      "email": "nadeenhazem544@gmail.com",
+      "password": "123",
+      "confirm": "123",
+      "id": 1
+    }
     
   ],
   "Courses": [
