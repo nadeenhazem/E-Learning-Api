@@ -1,43 +1,73 @@
 {
-  "Cart": [
-    {
-      "name": "Adidas red T-shirt lorem ipsum dolor sitament consectetuer",
-      "price": 9999,
-      "size": "Large",
-      "Quantity": 1,
-      "color": "red",
-      "colorImg": "https://i.ibb.co/4WSws5Q/itemimg3.jpg",
-      "id": 12
-    },
-    {
-      "name": "Adidas red T-shirt lorem ipsum dolor sitament consectetuer",
-      "price": 9999,
-      "size": "Large",
-      "Quantity": 1,
-      "color": "red",
-      "colorImg": "https://i.ibb.co/4WSws5Q/itemimg3.jpg",
-      "id": 13
-    },
-    {
-      "name": "Adidas red T-shirt lorem ipsum dolor sitament consectetuer",
-      "price": 9999,
-      "size": "Large",
-      "Quantity": 1,
-      "color": "red",
-      "colorImg": "https://i.ibb.co/4WSws5Q/itemimg3.jpg",
-      "id": 15
-    },
-    {
-      "name": "Adidas red T-shirt lorem ipsum dolor sitament consectetuer",
-      "price": 9999,
-      "size": "Large",
-      "Quantity": 1,
-      "color": "red",
-      "colorImg": "https://i.ibb.co/4WSws5Q/itemimg3.jpg",
-      "id": 16
-    }
-  ],
-  "CartCounter": {
-    "Counter": 4
-  }
+    "users": [
+        {
+            "id":1,
+            "title":"hello",
+            "isCompleted":false
+        }, {
+            "id":2,
+            "title":"hello2",
+            "isCompleted":false
+        }
+    ],
+    "accounts": [
+            {
+                "id":1,
+                "name":"xyz",
+                "roll":909
+            },
+            {
+                "id":1,
+                "name":"xyz",
+                "roll":909
+            }
+    ],
+    "transactions": [
+
+    ],
+    "data":[
+        {
+            "id":1,
+            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+            "book_name": "Harry Potter 3",
+            "author": "J. K. Rowling",
+            "genre": "fiction",
+            "edition": "2021",
+            "publisher": "Bloomsbury",
+            "cost": 1000,
+            "borrowed": false
+            },{
+                "id":2,
+                "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+                "book_name": "Harry Potter 4",
+                "author": "J. K. Rowling",
+                "genre": "fiction",
+                "edition": "2021",
+                "publisher": "Bloomsbury",
+                "cost": 1499,
+                "borrowed": false
+                },{
+                    "id":3,
+                    "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+                    "book_name": "Harry Potter 2",
+                    "author": "J. K. Rowling",
+                    "genre": "fiction",
+                    "edition": "2021",
+                    "publisher": "Bloomsbury",
+                    "cost": 1299,
+                    "borrowed": false
+                    },{
+                        "id":4,
+                        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+                        "book_name": "Harry Potter ",
+                        "author": "J. K. Rowling",
+                        "genre": "fiction",
+                        "edition": "2021",
+                        "publisher": "Bloomsbury",
+                        "cost": 1999,
+                        "borrowed": false
+                        }
+]
+    
+
 }
