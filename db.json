@@ -1,298 +1,43 @@
 {
-  "Users": [
+  "Cart": [
     {
-      "name": "NadeenHazem",
-      "email": "nadeenhazem544@gmail.com",
-      "password": "123",
-      "confirm": "123",
-      "id": 1
+      "name": "Adidas red T-shirt lorem ipsum dolor sitament consectetuer",
+      "price": 9999,
+      "size": "Large",
+      "Quantity": 1,
+      "color": "red",
+      "colorImg": "https://i.ibb.co/4WSws5Q/itemimg3.jpg",
+      "id": 12
+    },
+    {
+      "name": "Adidas red T-shirt lorem ipsum dolor sitament consectetuer",
+      "price": 9999,
+      "size": "Large",
+      "Quantity": 1,
+      "color": "red",
+      "colorImg": "https://i.ibb.co/4WSws5Q/itemimg3.jpg",
+      "id": 13
+    },
+    {
+      "name": "Adidas red T-shirt lorem ipsum dolor sitament consectetuer",
+      "price": 9999,
+      "size": "Large",
+      "Quantity": 1,
+      "color": "red",
+      "colorImg": "https://i.ibb.co/4WSws5Q/itemimg3.jpg",
+      "id": 15
+    },
+    {
+      "name": "Adidas red T-shirt lorem ipsum dolor sitament consectetuer",
+      "price": 9999,
+      "size": "Large",
+      "Quantity": 1,
+      "color": "red",
+      "colorImg": "https://i.ibb.co/4WSws5Q/itemimg3.jpg",
+      "id": 16
     }
-    
   ],
-  "Courses": [
-    {
-      "id": 1,
-      "MainCategory": "Frontend Development",
-      "Category": "React",
-      "name": " For Beginner",
-      "price": "$300",
-      "Lessons": "5 Lesson",
-      "StatusOfClasses": "Online Class",
-      "Votes": "36 Votes",
-      "img": "https://i.ibb.co/6bQdDHq/uxcourse.jpg",
-      "Description": "Right off the bat, you’ll create a React application with the help of the create-react-app tool to boilerplate a new React application. Then, after touring around your first starter project, you’ll begin populating it with components to design your user interface. You’ll also learn how to add style to your UI to make it user-friendly.So you’ve designed a static webpage, but there’s no interactivity yet. Events allow you to perform actions based on user input, like clicking. Actions can lead to change of states in components, so you’ll learn how to manage them with hooks (and eventually create your own custom hook).Moving on, you’ll learn how to implement forms the user can fill in, which you can then use to send and receive data from a server. Additionally, you’ll learn about the React router, handling errors like 404 pages, and more.",
-      "AllLessons": {
-        "Lesson1": {
-          "id": 1,
-          "NameOfMainCourse": "ReactJs Tutorial-",
-          "name": "1-Introduction",
-          "Link": "https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3"
-        },
-        "Lesson2": {
-          "id": 2,
-          "NameOfMainCourse": "ReactJs Tutorial-",
-          "name": "2 - Hello World",
-          "Link": "https://www.youtube.com/watch?v=9hb_0TZ_MVI"
-        },
-        "Lesson3": {
-          "id": 3,
-          "NameOfMainCourse": "ReactJs Tutorial-",
-          "name": "3 - Folder Structure",
-          "Link": "https://www.youtube.com/watch?v=9VIiLJL0H4Y"
-        },
-        "Lesson4": {
-          "id": 4,
-          "NameOfMainCourse": "ReactJs Tutorial-",
-          "name": "4 - Components",
-          "Link": "https://www.youtube.com/watch?v=Y2hgEGPzTZY&t=1s"
-        },
-        "Lesson5": {
-          "id": 5,
-          "NameOfMainCourse": "ReactJs Tutorial-",
-          "name": "5 - Functional Components",
-          "Link": "https://www.youtube.com/watch?v=Cla1WwguArA"
-        }
-      }
-    },
-    {
-      "id": 7,
-      "MainCategory": "BackEnd Development",
-      "Category": "Django",
-      "name": "Django Tutorial",
-      "price": "$500",
-      "Lessons": "5 Lesson",
-      "StatusOfClasses": "Online Class",
-      "Votes": "15 Votes",
-      "img": "https://i.ibb.co/GV7T2Cq/javascript.jpg",
-      "Description": "Back end developers are responsible for creating and maintaining technology at the back end of a website (the server, database and application). The attractive visuals created by designers, UX professionals and front end developers couldn't exist without the technology provided by a back end developer.",
-      "AllLessons": {
-        "Lesson1": {
-          "id": 1,
-          "NameOfMainCourse": "Django Tutorial-",
-          "name": "1- Setup, Installation and Page Navigation",
-          "Link": "https://www.youtube.com/watch?v=Z4D3M-NSN58&list=PLzMcBGfZo4-kQkZp-j9PNyKq7Yw5VYjq9"
-        },
-        "Lesson2": {
-          "id": 2,
-          "NameOfMainCourse": "Django Tutorial-",
-          "name": "2-SQLite3 DataBase Tutorial",
-          "Link": "https://www.youtube.com/watch?v=UxTwFMZ4r5k"
-        },
-        "Lesson3": {
-          "id": 3,
-          "NameOfMainCourse": "Django Tutorial-",
-          "name": "3-Admin Dashboard",
-          "Link": "https://www.youtube.com/watch?v=dTXyCGVmjL8"
-        },
-        "Lesson4": {
-          "id": 4,
-          "NameOfMainCourse": "Django Tutorial-",
-          "name": "4- Templates & Custom HTML",
-          "Link": "https://www.youtube.com/watch?v=b0CgA_Ap_Mc"
-        },
-        "Lesson5": {
-          "id": 5,
-          "NameOfMainCourse": "Django Tutorial-",
-          "name": "5-Simple Forms",
-          "Link": "https://www.youtube.com/watch?v=vM9mcWr1RMg"
-        }
-      }
-    },
-    {
-      "id": 2,
-      "MainCategory": "Ui-Ux",
-      "Category": "UI/UX Design",
-      "name": "What is UI UX?",
-      "price": "$200",
-      "Lessons": "3 Lesson",
-      "StatusOfClasses": "Online Class",
-      "Votes": "20 Votes",
-      "img": "https://i.ibb.co/HYcpH0Z/digital.jpg",
-      "Description": "UI UX designers create the user interface for an app, website, or other interactive media. Their work includes collaborating with product managers and engineers to gather requirements from users before designing ideas that can be communicated using storyboards. They also process flows or sitemaps.",
-      "AllLessons": {
-        "Lesson1": {
-          "id": 1,
-          "NameOfMainCourse": "UI/UX For Beginner-",
-          "name": "1-Introduction",
-          "Link": "https://www.youtube.com/watch?v=55NvZjUZIO8&list=PLEiEAq2VkUULzCiDV5VyF7zR6zoDIT_eH"
-        },
-        "Lesson2": {
-          "id": 2,
-          "NameOfMainCourse": "UI/UX For Beginner-",
-          "name": "2-Top 10 Best UI UX Tools 2022 ",
-          "Link": "https://www.youtube.com/watch?v=dcPp_U-v3bI"
-        },
-        "Lesson3": {
-          "id": 3,
-          "NameOfMainCourse": "UI/UX For Beginner-",
-          "name": "3-Introduction To Figma",
-          "Link": "https://www.youtube.com/watch?v=4scAHfiRTOw"
-        }
-      }
-    },
-    {
-      "id": 3,
-      "MainCategory": "BackEnd Development",
-      "Category": "Laravel",
-      "name": "Laravel tutorial",
-      "price": "$400",
-      "Lessons": "5 Lesson",
-      "StatusOfClasses": "Online Class",
-      "Votes": "20 Votes",
-      "img": "https://i.ibb.co/JK8VT5f/php.jpg",
-      "Description": "Right off the bat, you’ll create a React application with the help of the create-react-app tool to boilerplate a new React application. Then, after touring around your first starter project, you’ll begin populating it with components to design your user interface. You’ll also learn how to add style to your UI to make it user-friendly.So you’ve designed a static webpage, but there’s no interactivity yet. Events allow you to perform actions based on user input, like clicking. Actions can lead to change of states in components, so you’ll learn how to manage them with hooks (and eventually create your own custom hook).Moving on, you’ll learn how to implement forms the user can fill in, which you can then use to send and receive data from a server. Additionally, you’ll learn about the React router, handling errors like 404 pages, and more.",
-      "AllLessons": {
-        "Lesson1": {
-          "id": 1,
-          "NameOfMainCourse": "Laravel tutorial-",
-          "name": "1-what is Laravel",
-          "Link": "https://www.youtube.com/watch?v=aE23W1Tf_ZU&list=PL8p2I9GklV47Jszga434vZxOmY74Q1N_K&index=1"
-        },
-        "Lesson2": {
-          "id": 2,
-          "NameOfMainCourse": "Laravel tutorial-",
-          "name": "2- Prerequisites | Important points before start with Laravel",
-          "Link": "https://www.youtube.com/watch?v=9fC5zmvbDwU"
-        },
-        "Lesson3": {
-          "id": 3,
-          "NameOfMainCourse": "Laravel tutorial-",
-          "name": "3-What is MVC in laravel",
-          "Link": "https://www.youtube.com/watch?v=k6cPFf0i0Cc"
-        },
-        "Lesson4": {
-          "id": 4,
-          "NameOfMainCourse": "Laravel tutorial-",
-          "name": "4- install Xampp | download PHP and MySql",
-          "Link": "https://www.youtube.com/watch?v=z9iY_Tw8Ul0"
-        },
-        "Lesson5": {
-          "id": 5,
-          "NameOfMainCourse": "Laravel tutorial-",
-          "name": "5- What is Composer",
-          "Link": "https://www.youtube.com/watch?v=0qZF6lW9Fto"
-        }
-      }
-    },
-    {
-      "id": 4,
-      "MainCategory": "other",
-      "Category": "English Language",
-      "name": "English Learn",
-      "price": "$150",
-      "Lessons": "5 Lesson",
-      "StatusOfClasses": "Online Class",
-      "Votes": "40 Votes",
-      "img": "https://i.ibb.co/Yf32Bf4/math.jpg",
-      "Description": "Learn English Language and improve it",
-      "AllLessons": {
-        "Lesson1": {
-          "id": 1,
-          "NameOfMainCourse": "English For You -",
-          "name": "1-Learn English Grammar with Friends",
-          "Link": "https://www.youtube.com/watch?v=LWEBcN2o7Pc"
-        },
-        "Lesson2": {
-          "id": 2,
-          "NameOfMainCourse": "English For You -",
-          "name": "2-Learn English With Harry Potter",
-          "Link": "https://www.youtube.com/watch?v=joE-ANMPG5k"
-        },
-        "Lesson3": {
-          "id": 3,
-          "NameOfMainCourse": "English For You -",
-          "name": "3-Learn English with Netflix's WEDNESDAY",
-          "Link": "https://www.youtube.com/watch?v=rIRuoQMrCdg"
-        },
-        "Lesson4": {
-          "id": 4,
-          "NameOfMainCourse": "English For You -",
-          "name": "4-Learning English Broadcast",
-          "Link": "https://www.youtube.com/watch?v=Gx4Mh7y3pho"
-        },
-        "Lesson5": {
-          "id": 5,
-          "NameOfMainCourse": "English For You -",
-          "name": "5-The Canterville Ghost Chapter 5",
-          "Link": "https://www.youtube.com/watch?v=fvRQVWrFtE0"
-        }
-      }
-    },
-    {
-      "id": 5,
-      "MainCategory": "Frontend Development",
-      "Category": "Angular",
-      "name": " Angular-For Beginner",
-      "price": "$350",
-      "Lessons": "5 Lesson",
-      "StatusOfClasses": "Online Class",
-      "Votes": "50 Votes",
-      "img": "https://i.ibb.co/kcgdmk9/angular.jpg",
-      "Description": "Right off the bat, you’ll create a React application with the help of the create-react-app tool to boilerplate a new React application. Then, after touring around your first starter project, you’ll begin populating it with components to design your user interface. You’ll also learn how to add style to your UI to make it user-friendly.So you’ve designed a static webpage, but there’s no interactivity yet. Events allow you to perform actions based on user input, like clicking. Actions can lead to change of states in components, so you’ll learn how to manage them with hooks (and eventually create your own custom hook).Moving on, you’ll learn how to implement forms the user can fill in, which you can then use to send and receive data from a server. Additionally, you’ll learn about the React router, handling errors like 404 pages, and more.",
-      "AllLessons": {
-        "Lesson1": {
-          "id": 1,
-          "NameOfMainCourse": "Angular Tutorial -",
-          "name": "1-Introduction",
-          "Link": "https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ"
-        },
-        "Lesson2": {
-          "id": 2,
-          "NameOfMainCourse": "Angular Tutorial -",
-          "name": "2- Getting Started",
-          "Link": "https://www.youtube.com/watch?v=FVPGJHinItI"
-        },
-        "Lesson3": {
-          "id": 3,
-          "NameOfMainCourse": "Angular Tutorial -",
-          "name": "3-Hello World App",
-          "Link": "https://www.youtube.com/watch?v=mDoHtD1hI3I"
-        },
-        "Lesson4": {
-          "id": 4,
-          "NameOfMainCourse": "Angular Tutorial -",
-          "name": "4-Components",
-          "Link": "https://www.youtube.com/watch?v=16rQyEQtpyQ"
-        },
-        "Lesson5": {
-          "id": 5,
-          "NameOfMainCourse": "Angular Tutorial -",
-          "name": "5- Interpolation",
-          "Link": "https://www.youtube.com/watch?v=2a6OfacW_-I"
-        }
-      }
-    },
-    {
-      "id": 6,
-      "MainCategory": "other",
-      "Category": "Mathmatics Learn",
-      "name": "Algebra",
-      "price": "$120",
-      "Lessons": "3 Lesson",
-      "StatusOfClasses": "Online Class",
-      "Votes": "25 Votes",
-      "img": "https://i.ibb.co/w0ZHj5H/english.jpg",
-      "Description": "Learn Algebra in this full college course. These concepts are often used in programming.",
-      "AllLessons": {
-        "Lesson1": {
-          "id": 1,
-          "NameOfMainCourse": "College Algebra-",
-          "name": "1-All Basic",
-          "Link": "https://www.youtube.com/watch?v=LwCRRUa8yTU"
-        },
-        "Lesson2": {
-          "id": 2,
-          "NameOfMainCourse": "College Algebra-",
-          "name": "2-Introduction to Calculus",
-          "Link": "https://www.youtube.com/watch?v=tt2DGYOi3hc"
-        },
-        "Lesson3": {
-          "id": 3,
-          "NameOfMainCourse": "College Algebra-",
-          "name": "3-Introduction to Logarithms",
-          "Link": "https://www.youtube.com/watch?v=ntBWrcbAhaY"
-        }
-      }
-    }
-  ]
+  "CartCounter": {
+    "Counter": 4
+  }
 }
